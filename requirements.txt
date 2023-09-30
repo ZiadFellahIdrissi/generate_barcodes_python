@@ -1,7 +1,9 @@
-barcode_generator==0.1rc15
 dash==2.13.0
 Pillow==10.0.1
 pywin32==300
+python-barcode
 gunicorn
 pandas
 dash-tools
+win32printing
+

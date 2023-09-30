@@ -15,6 +15,8 @@ try:
     printer_name = win32print.GetDefaultPrinter()
 except:
     printer_name= "There is no printed detected :("
+
+print(printer_name)
 # Define the layout of the app
 app.layout = html.Div(
     [
